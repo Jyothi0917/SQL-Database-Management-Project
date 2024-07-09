@@ -7,7 +7,7 @@ The goal of this project was to create and manage a student database using MySQL
 
 ## Contents
 - **student_management_db.sql:** The exported SQL file containing the database structure and data.
-- **Project Documentation.pdf:** Detailed documentation with screenshots and descriptions of the queries and processes used.
+- **Sql Database Project.pdf:** Detailed documentation with screenshots and descriptions of the queries and processes used.
 
 ## How to Use
 1. **Create a New Database:**
